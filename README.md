@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/anah%C3%AD-bravo-celis-886627128/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="anahibravoLinkedinProfile" height="21" width="30" /></a>
-<a href="ajbravoc@gmail.com" target="blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="emailAnahiBravo" height="18" width="31" /></a>
+<a href="mailto:ajbravoc@gmail.com" target="blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="emailAnahiBravo" height="18" width="31" /></a>
 </p>
 
 
