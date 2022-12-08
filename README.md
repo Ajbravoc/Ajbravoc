@@ -6,8 +6,8 @@
 </p>
 
 
-- 👀 Front End Developer student at Laboratoria 
-- :pencil2: English teacher
+- 👀 Front End Developer.
+- :pencil2: English teacher.
 - 💻 I’m currently learning REACT, Node.JS and working on my coding skills.
 - :musical_note: I also love pushing myself to learn and enjoy different activities ouside the tech world, such us dancing and singing. 
 - :sparkles: Fun fact: I have a :dog: and last but not least, I love singing and going to the gym!
